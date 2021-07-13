@@ -1,4 +1,4 @@
-
+//                                                                               Kenozos
 // aqui estamos dizendo o que o arduino deve fazer ao ligar 
 void setup() 
 {
@@ -20,6 +20,8 @@ void loop()
 
   // estamos dando outro delay de 50 milésimos de segundos
   delay(50);
-  
-  
+
 }
+//                                                                               Kenozos
+
+//https://www.tinkercad.com/things/akRBQaXeeVi-epic-snaget/editel?sharecode=yA8qHNIPskRhTnvktZEOMW0MKe2JCtyGW-izsnkrJqo
